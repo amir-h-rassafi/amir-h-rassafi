@@ -1,4 +1,8 @@
-# Am!r Hossein Rassafi
+<div align="center">
+    <img src="./dino.gif">
 
-__ADHD isn't a bad thing, and you shouldn't feel different from those without ADHD. __
+    # Am!r Hossein Rassafi
 
+    _ADHD isn't a bad thing, and you shouldn't feel different from those without ADHD._
+
+</div>
