@@ -2,7 +2,7 @@
     <img src="./dino.gif">
     <h1>Am!r Hossein Rassafi</h1>
     
-_ADHD isn't a bad thing, and you shouldn't feel different from those without ADHD._
+_Software Engineer_
 
     
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/amir-h-rassafi/CV?label=Resume&logo=github&style=flat-square)](https://github.com/amir-h-rassafi/CV/releases/latest)
