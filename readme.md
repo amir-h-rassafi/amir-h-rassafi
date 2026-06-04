@@ -2,7 +2,7 @@
     <img src="./dino.gif">
     <h1>Am!r Hossein Rassafi</h1>
     
-_Software Engineer_
+_Software Engineer_ | _Technical Lead_
 
     
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/amir-h-rassafi/CV?label=Resume&logo=github&style=flat-square)](https://github.com/amir-h-rassafi/CV/releases/latest)
